@@ -1,6 +1,6 @@
 # Results Summary
 
-Inspired by the second challenge i did from Frontend Mentor website. Try it by following this link: [link]
+Inspired by the second challenge i did from Frontend Mentor website. Try it by following this link: [[link]](https://astro-dust.github.io/Results-Summary/)
 
 ## Results
 
