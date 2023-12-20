@@ -6,6 +6,8 @@
 }
 
 .container {
+  overflow-y: auto;
+  max-height: 80vh;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -176,6 +178,12 @@
   border: none;
   padding: 12px 100px;
   cursor: pointer;
+  transition: background-color 0.2s ease-out;
+}
+
+.container-right-continue > button:hover {
+  background-color: rgb(35, 35, 177);
+  transition: 0.4s ease-out;
 }
 
 /* MOBILE VERSION */
